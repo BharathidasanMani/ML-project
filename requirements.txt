@@ -1,0 +1,25 @@
+# langchain core
+langchain
+langchain-core
+
+# LLM providers
+langchain-openai
+openai
+
+langchain-anthropic
+
+langchain-google-genai
+google-generativeai
+
+langchain-huggingface
+transformers
+huggingface-hub
+langchain-groq
+
+# Environment variables
+python-dotenv
+
+# ML utilities
+numpy
+scikit-learn
+
