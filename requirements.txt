@@ -22,4 +22,26 @@ python-dotenv
 # ML utilities
 numpy
 scikit-learn
-
+langchain 
+langchain-groq 
+langchain-community 
+duckduckgo-search 
+python-dotenv
+streamlit
+langgraph
+langchain-groq
+graphviz
+networkx
+streamlit
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-groq
+langchain-text-splitters==0.2.2
+faiss-cpu
+sentence-transformers
+python-dotenv
+pypdf
+huggingface-hub
+transformers
+numpy
